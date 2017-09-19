@@ -1,15 +1,18 @@
 p {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin: 10px 15px 10px 8px;
 }
 p {
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
+    padding: 5px 3px 5px 8px;
 }
-p {
-    background-color: pink;
+.hometown { 
+    background: pink;
+}
+#firstname {
+    background-color: yellow;
+}
+p
+{
+    color:blue;
+     color:blue; 
+     color:blue;
 }
